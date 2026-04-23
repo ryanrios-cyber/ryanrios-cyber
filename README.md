@@ -1,48 +1,58 @@
 <h1>Hi, I'm Ryan Rios 👋</h1>
 
 <p>
-Aspiring <b>Cybersecurity Analyst</b> with hands-on experience in <b>SOC operations, network traffic analysis, and threat detection</b>.  
-Currently building real-world lab projects to simulate security investigations and strengthen practical skills in identifying and analyzing suspicious activity.
+IT Support & Cybersecurity professional with hands-on experience in <b>system troubleshooting, log analysis, and network traffic analysis</b>.  
+Skilled in working with Windows environments, analyzing system logs, and identifying abnormal behavior through real-world lab simulations.
 </p>
 
 <p>
-I am actively working toward transitioning into a <b>Security Operations Center (SOC) Analyst role</b> and continuously improving through labs, certifications, and applied practice.
+Currently seeking <b>IT Support / Help Desk opportunities</b> to build real-world experience while continuing to grow toward a long-term career in cybersecurity.
 </p>
 
 ---
 
-<h2>👨‍💻 Cybersecurity Projects</h2>
+<h2>👨‍💻 IT & Cybersecurity Lab Projects</h2>
 
-- <b>🛑 Brute Force Attack Detection & Log Analysis (Splunk SIEM)</b>  
-  - Analyzed authentication logs to identify brute force attack patterns  
-  - Used Splunk to search, filter, and correlate failed login attempts  
-  - Identified suspicious IP behavior and attack indicators  
-  - Practiced log analysis and threat detection in a SIEM environment  
+- <b>🛑 System Log Analysis & Brute Force Detection (Splunk SIEM)</b>  
+  - Analyzed Windows authentication logs to identify abnormal login behavior and system anomalies  
+  - Used Splunk to search, filter, and troubleshoot authentication-related issues  
+  - Identified suspicious activity and patterns impacting system access  
+  - Strengthened skills in log analysis, system monitoring, and issue investigation  
 
-- <b>🌐 Network Traffic Analysis & Threat Detection Lab</b>  
-  - Captured and analyzed network traffic using Wireshark  
+- <b>🌐 Network Traffic Analysis & Troubleshooting Lab</b>  
+  - Captured and analyzed network traffic using Wireshark to identify connectivity issues and anomalies  
   - Identified protocols such as TCP, DNS, and HTTP  
-  - Investigated traffic patterns to detect anomalies and suspicious activity  
-  - Applied packet filtering and deep packet inspection techniques  
+  - Investigated traffic patterns to detect abnormal behavior and potential system issues  
+  - Applied packet filtering and analysis techniques for troubleshooting and investigation  
 
-- <b>📊 SIEM Threat Detection & Log Analysis – Splunk Enterprise</b>  
-  - Utilized Splunk Enterprise to monitor and analyze security events  
-  - Created queries to detect unusual system and network activity  
-  - Correlated logs to identify potential security incidents  
-  - Gained hands-on experience with SIEM workflows and alerting concepts  
+- <b>📊 System Monitoring & Log Analysis – Splunk Enterprise</b>  
+  - Utilized Splunk Enterprise to monitor and analyze system and network events  
+  - Created queries to identify unusual system behavior and performance issues  
+  - Correlated logs to investigate and troubleshoot system irregularities  
+  - Gained hands-on experience with system monitoring and alert analysis  
 
-- <b>🖥️ Windows Server Attack Detection & Incident Investigation Lab</b>  
-  - Investigated security events within a Windows Server environment  
-  - Analyzed logs to detect unauthorized access and suspicious behavior  
-  - Practiced incident investigation and documentation techniques  
-  - Identified indicators of compromise (IOCs) within system activity  
+- <b>🖥️ Windows System Monitoring & Incident Investigation Lab</b>  
+  - Investigated Windows Server logs to identify abnormal system activity and access issues  
+  - Analyzed Event Viewer logs for failed logins and account lockouts  
+  - Identified behavior consistent with unauthorized access attempts  
+  - Practiced system analysis, troubleshooting, and incident investigation techniques  
+
+---
+
+<h2>🧪 IT Support Lab Focus</h2>
+
+- Troubleshooting Windows system issues and user authentication problems  
+- Analyzing system logs to identify errors and abnormal behavior  
+- Investigating network connectivity issues using Wireshark  
+- Simulating real-world IT support scenarios to build practical experience  
 
 ---
 
 <h2>🛠️ Skills & Tools</h2>
 
-- <b>Security & Analysis:</b> Threat Detection, Log Analysis, Incident Investigation  
-- <b>Tools:</b> Wireshark, (Splunk – basic exposure if applicable)  
+- <b>IT Support & Troubleshooting:</b> Windows OS, System Logs, Basic User Support, Issue Resolution  
+- <b>Systems & Analysis:</b> Log Analysis, System Monitoring, Incident Investigation  
+- <b>Tools:</b> Splunk (SIEM – lab), Wireshark  
 - <b>Networking:</b> TCP/IP, DNS, HTTP, Packet Analysis  
 - <b>Operating Systems:</b> Windows, Basic Linux  
 
@@ -69,10 +79,10 @@ I am actively working toward transitioning into a <b>Security Operations Center 
 
 <h2>📈 What I’m Working On</h2>
 
-- Expanding SOC lab scenarios and attack simulations  
-- Adding more Wireshark traffic analysis investigations  
-- Strengthening detection and incident response skills  
-- Actively applying for Cybersecurity Analyst roles  
+- Expanding hands-on labs focused on system troubleshooting and log analysis  
+- Building real-world IT support scenarios (Windows systems, user issues, network troubleshooting)  
+- Strengthening skills in system monitoring and incident investigation  
+- Actively applying for IT Support / Help Desk opportunities while continuing to grow in cybersecurity  
 
 ---
 
